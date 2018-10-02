@@ -1,0 +1,5 @@
+#Ignora ficheros binarios
+*.exe
+*.dll
+*.bak
+*.orig
